@@ -1,5 +1,7 @@
 # CSE6250NLP
 
+https://docs.google.com/document/d/1GhRbi_QLtogOALl4nSjSHA6IMh0lXtiCFTRQ34j8e10/edit#
+
 Team 6 Members, Listed Alphabetically:
 Matthew Aeschbacher, Matthew Bray, Joshua Harris, Suhas Mahajan
 CSE 6250
@@ -54,3 +56,5 @@ time).
 8) Identify the high-level technical approaches for the project (e.g., what algorithms to use or pipelines to use). 
 9) Prepare a timeline and milestones of deliverables for the entire project.
 All the above steps in project initiation should be demonstrated in your proposal.
+
+
